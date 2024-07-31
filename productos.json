@@ -1,0 +1,134 @@
+{
+  "productos": [
+    {
+      "id": "5678",
+      "nombre": "Samsung Galaxy S21",
+      "caracteristicas": [
+        "Camara 64 MPx",
+        "8 GB RAM",
+        "128 GB ROM",
+        "5G",
+        "Chip Dual"
+      ],
+      "precio_normal": 799000,
+      "precio_infonet": 699000
+    },
+    {
+      "id": "1234",
+      "nombre": "iPhone 12",
+      "caracteristicas": [
+        "Camara 12 MPx",
+        "4 GB RAM",
+        "64 GB ROM",
+        "5G",
+        "A14 Bionic Chip"
+      ],
+      "precio_normal": 999000,
+      "precio_infonet": 899000
+    },
+    {
+      "id": "9101",
+      "nombre": "Xiaomi Mi 11",
+      "caracteristicas": [
+        "Camara 108 MPx",
+        "8 GB RAM",
+        "256 GB ROM",
+        "5G",
+        "Snapdragon 888"
+      ],
+      "precio_normal": 749000,
+      "precio_infonet": 649000
+    },
+    {
+      "id": "1122",
+      "nombre": "OnePlus 9",
+      "caracteristicas": [
+        "Camara 48 MPx",
+        "12 GB RAM",
+        "256 GB ROM",
+        "5G",
+        "Snapdragon 888"
+      ],
+      "precio_normal": 729000,
+      "precio_infonet": 629000
+    },
+    {
+      "id": "3344",
+      "nombre": "Google Pixel 5",
+      "caracteristicas": [
+        "Camara 12.2 MPx",
+        "8 GB RAM",
+        "128 GB ROM",
+        "5G",
+        "Snapdragon 765G"
+      ],
+      "precio_normal": 699000,
+      "precio_infonet": 599000
+    },
+    {
+      "id": "5566",
+      "nombre": "Huawei P40 Pro",
+      "caracteristicas": [
+        "Camara 50 MPx",
+        "8 GB RAM",
+        "256 GB ROM",
+        "5G",
+        "Kirin 990"
+      ],
+      "precio_normal": 799000,
+      "precio_infonet": 699000
+    },
+    {
+      "id": "7788",
+      "nombre": "Sony Xperia 1 II",
+      "caracteristicas": [
+        "Camara 12 MPx",
+        "8 GB RAM",
+        "256 GB ROM",
+        "5G",
+        "Snapdragon 865"
+      ],
+      "precio_normal": 849000,
+      "precio_infonet": 749000
+    },
+    {
+      "id": "9900",
+      "nombre": "Oppo Find X3 Pro",
+      "caracteristicas": [
+        "Camara 50 MPx",
+        "12 GB RAM",
+        "256 GB ROM",
+        "5G",
+        "Snapdragon 888"
+      ],
+      "precio_normal": 899000,
+      "precio_infonet": 799000
+    },
+    {
+      "id": "3345",
+      "nombre": "LG V60 ThinQ",
+      "caracteristicas": [
+        "Camara 64 MPx",
+        "8 GB RAM",
+        "128 GB ROM",
+        "5G",
+        "Snapdragon 865"
+      ],
+      "precio_normal": 749000,
+      "precio_infonet": 649000
+    },
+    {
+      "id": "5567",
+      "nombre": "Nokia 8.3 5G",
+      "caracteristicas": [
+        "Camara 64 MPx",
+        "8 GB RAM",
+        "128 GB ROM",
+        "5G",
+        "Snapdragon 765G"
+      ],
+      "precio_normal": 599000,
+      "precio_infonet": 499000
+    }
+  ]
+}
