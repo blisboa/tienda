@@ -1,0 +1,39 @@
+{
+    "planes": [
+      {
+        "titulo": "Oferta 1",
+        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+      },
+      {
+        "titulo": "Oferta 2",
+        "descripcion": "Lorem Ipsum is simply dummy text of the printing."
+      },
+      {
+        "titulo": "Oferta 3",
+        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever."
+      },
+      {
+        "titulo": "Oferta 4",
+        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever."
+      },
+      {
+        "titulo": "Oferta 5",
+        "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever."
+      }
+    ],
+    "feedback": [
+      {
+        "nombre": "CLiente 1",
+        "descripcion": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+      },
+      {
+        "nombre": "Cliente 2",
+        "descripcion": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+      },
+      {
+        "nombre": "Cliente 3",
+        "descripcion": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+      }
+    ]
+  }
+  
